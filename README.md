@@ -17,7 +17,7 @@ Table of Contents
 
 
 ## Survey
-1. Ying Shen, Ning Ding, Hai-Tao Zheng, Yaliang Li, and Min Yang. [Modeling Relation Paths for Knowledge Graph Completion](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8974254). TKDE 2020. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8974254) 
+1. Weiqing Min, Shuqiang Jiang, Linhu Liu, Yong Rui, and Ramesh Jain. [A Survey on Food Computing](https://arxiv.org/pdf/1808.07202.pdf). ACM Computing Surveys 2019. [[Paper]](https://arxiv.org/pdf/1808.07202.pdf) 
 
 
 ## Food_Computation
