@@ -7,8 +7,8 @@ Here, we are concentrate on collection of research papers involving food-aware t
 Table of Contents
 =================
 
-  * [Survey](#Survey)
 <!--   * [Report](#Report) -->
+  * [Survey](#Survey)
   * [Food Computation](#Food_Computation)
   * [Food Knowledge Graph](#Food_Knowledge_Graph)
   * [Recipe Representation Learning](#Recipe_Representation_Learning)
