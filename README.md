@@ -29,7 +29,7 @@ Table of Contents
 1. Liu Linhu. [Ingredient Based Food Image Recognition](http://vipl.ict.ac.cn/homepage/minweiqing/Thesis_Dissertation/Ingredient%20Based%20Food%20Recognition-LinhuLiu.pdf) (基于食材信息的食品图像识别方法研究). University of Chinese Academy of Sciences. 2020.06. 
 
 
-2. Zhengdong Luo. [Large-scale Food Image Dataset Construction and Recognition](http://vipl.ict.ac.cn/homepage/minweiqing/Thesis_Dissertation/Ingredient%20Based%20Food%20Recognition-LinhuLiu.pdf) (大规模食品图像数据集构建及识别方法研究). University of Chinese Academy of Sciences. 2020.06. 
+2. Zhengdong Luo. [Large-scale Food Image Dataset Construction and Recognition](http://vipl.ict.ac.cn/homepage/minweiqing/Thesis_Dissertation/Research%20on%20large-scale%20food%20image%20dataset%20construction%20and%20recognition-ZhengdongLuo.pdf) (大规模食品图像数据集构建及识别方法研究). University of Chinese Academy of Sciences. 2020.06. 
 
 
 3. Weiqing Min, Shuqiang Jiang, Ramesh C. Jain. [Food Recommendation: Framework, Existing Solutions, and Challenges](https://ieeexplore.ieee.org/document/8930090). IEEE Access. 2020. 
