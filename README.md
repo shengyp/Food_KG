@@ -48,6 +48,15 @@ Table of Contents
 1. Nidhi Rastogi, Oshani Seneviratne, Yu Chen, et al,. [Applying Learning and Semantics for Personalized Food Recommendations](http://ceur-ws.org/Vol-2721/paper578.pdf). ISWC 2020. [[Demo Paper]](http://ceur-ws.org/Vol-2721/paper578.pdf)
 
 
+[Food Computing Research Group](http://123.57.42.89/FoodComputing__People.html)
+
+
+
+Peoples:
+
+
+[Weiqing Min](http://vipl.ict.ac.cn/homepage/minweiqing/Home.html)
+
 
 <!-- ## Temporal_QA
 1. Camille Bourgaux and Anni-Yasmin Turhan. [Temporal Query Answering in DL-Lite over Inconsistent Data](https://link.springer.com/content/pdf/10.1007%2F978-3-319-68288-4_8.pdf). ISWC 2017. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-68288-4_8.pdf) -->
